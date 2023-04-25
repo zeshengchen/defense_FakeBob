@@ -1,5 +1,5 @@
 # defense_FakeBob
-Source code for the paper "Defending Against FakeBob Adversarial Attacks in Speaker Verification Systems With Noise-Adding"
+Source code for the paper ["Defending Against FakeBob Adversarial Attacks in Speaker Verification Systems With Noise-Adding"](https://www.mdpi.com/1999-4893/15/8/293)
 ```
 @Article{a15080293,
 AUTHOR = {Chen, Zesheng and Chang, Li-Chi and Chen, Chao and Wang, Guoping and Bi, Zhuming},
